@@ -1,0 +1,10 @@
+{
+  "name": "press-release-generator",
+  "version": "1.0.0",
+  "description": "ClawHub skill: press-release-generator",
+  "license": "MIT-0",
+  "openclaw": {
+    "type": "skill",
+    "category": "marketing"
+  }
+}
